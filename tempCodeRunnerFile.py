@@ -1,0 +1,1 @@
+spaceship_group.draw(SCREEN)
